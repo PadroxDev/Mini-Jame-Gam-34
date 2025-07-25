@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fe6650bd3094cccb23ddfada824d030, type: 3}
+  m_Name: Chick
+  m_EditorClassIdentifier: 
+  prefab: {fileID: -6536911157454376726, guid: 2bc2db6b63c584d4ab721c043eb126cb, type: 3}
+  speed: 2.6
+  MoveStrategy: {fileID: 11400000, guid: cb6a45063777acf49aec0c35b7fac30e, type: 2}
